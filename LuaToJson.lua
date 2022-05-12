@@ -34,4 +34,4 @@ luaTable =  encounterZone:get()
 jsonTable = json.encode(luaTable)
 
 --Enregistrer la liste dans un fichier json
-write(jsonTable,"G:/Projets/Git/Outils/CoromonUnpacker/EncounterZoneList/EncounterList.json")
+write(jsonTable,"./EncounterZoneList/EncounterList.json")
