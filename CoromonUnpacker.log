@@ -1,0 +1,12 @@
+Creating G:/Projets/Git/Outils/CoromonUnpacker/PackageUnpacked/ directory
+Creating G:/Projets/Git/Outils/CoromonUnpacker/EncounterZoneList/ directory
+Unpacking coromon Resource.car
+Math librairy binary copied to be decompiled.
+Math library decompiled
+EncounterZoneList binary copied to be decompiled.
+EncounterZoneList binary decompiled
+'createEncounterZone' overridden. EncounterList.lua created
+Lua executed. JSON created with the complete encounter table.
+JSON copied to the target location : G:\Projets\Git\Coromon-Location\data\
+Removing G:/Projets/Git/Outils/CoromonUnpacker/PackageUnpacked/ directory
+Removing G:/Projets/Git/Outils/CoromonUnpacker/EncounterZoneList/ directory
